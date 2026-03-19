@@ -1,6 +1,6 @@
 cask "ember" do
   version "1.0.0"
-  sha256 :no_check
+  sha256 "c52bd05cbe38e04152004463157a0820049b9da764e98e85aefb9ea13a5a1c0a"
 
   url "https://github.com/arcimun/ember/releases/download/v#{version}/Ember-#{version}.dmg"
   name "Ember"
